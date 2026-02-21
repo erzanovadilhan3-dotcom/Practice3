@@ -1,4 +1,4 @@
-class myanimals():
+class myfriend():
     age=15
-Uliana=myanimals()
+Uliana=myfriend()
 print(Uliana.age)
